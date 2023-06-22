@@ -51,7 +51,7 @@ MonoBehaviour:
     - {fileID: 21300000, guid: d2ac6e52f4b844aafbe6c272453ecc82, type: 3}
     positionRadius: 15
     scaleMin: 1.15
-    scaleMax: 1.69
+    scaleMax: 1.45
     max: 108
   - directory: 02-02
     num: 01
